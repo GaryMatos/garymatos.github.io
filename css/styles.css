@@ -1,0 +1,44 @@
+
+body {margin: 0; background-color: #E6DDC4;}
+
+a {color: black;}
+
+#heading-1 {font-family:"monaco",monospace; margin-top: 0; padding-top: 50px;}
+
+#heading-2 {font-family:"monaco",monospace; margin-top: 0; padding-top: 20px;}
+
+.paragraph {font-family: "Lucida Console",monospace; padding-bottom: 50px; margin: 0;}
+
+.top-container {text-align: center; background-color: #94AC3C; position: relative;}
+
+.middle-container {text-align: center; background-color: #E6DDC4;}
+
+.forest-tree {width: 20%; height: auto; padding-top: 20px;}
+
+hr {border-style: dotted none none;
+    border-color: #F0E9D2;
+    border-width: 5px;
+    width: 5%;
+    background-color: #E6DDC4;}
+
+.first-bird {width: 5%; height: auto; position: absolute; right: 540px; bottom: 280px;}
+
+.second-bird {width: 5%; height: auto; position: absolute; left: 520px;}
+
+.Gary-Hi {width: 10%; padding-top: 50px;}
+
+.Gary-Skills {width: 10%; padding-top: 50px;}
+
+.bottom-container {text-align: center; background-color: #E6DDC4;}
+
+.skills-table {margin-left: auto; margin-right: auto; font-family: "Lucida Console",monospace; padding-bottom: 50px;}
+
+.extra-container {text-align: center;background-color: #E6DDC4;}
+
+.Gary-Call-Me {width: 10%; padding-top: 50px;}
+
+.bottom-container {text-align: center; background-color: #E6DDC4;}
+
+.end-container {text-align: center; background-color: black; padding: 0; margin: 0;}
+
+.paragraph-2 {color: white; padding-top: 50px; padding-bottom: 50px; bottom: 500px;}
