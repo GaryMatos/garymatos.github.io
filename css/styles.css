@@ -42,3 +42,31 @@ hr {border-style: dotted none none;
 .end-container {text-align: center; background-color: black; padding: 0; margin: 0;}
 
 .paragraph-2 {color: white; padding-top: 50px; padding-bottom: 50px; bottom: 500px; margin-top: 0; margin-bottom: 0;}
+
+.btn {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #505753);
+  background-image: -moz-linear-gradient(top, #000000, #505753);
+  background-image: -ms-linear-gradient(top, #000000, #505753);
+  background-image: -o-linear-gradient(top, #000000, #505753);
+  background-image: linear-gradient(to bottom, #000000, #505753);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #16b320;
+  background-image: -webkit-linear-gradient(top, #16b320, #21a35d);
+  background-image: -moz-linear-gradient(top, #16b320, #21a35d);
+  background-image: -ms-linear-gradient(top, #16b320, #21a35d);
+  background-image: -o-linear-gradient(top, #16b320, #21a35d);
+  background-image: linear-gradient(to bottom, #16b320, #21a35d);
+  text-decoration: none;
+}
